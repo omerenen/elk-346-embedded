@@ -62,7 +62,7 @@ python-telegram-bot
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fan-anomaly-detector.git
+git clone https://github.com/omerenen/fan-anomaly-detector.git
 cd fan-anomaly-detector
 ```
 
